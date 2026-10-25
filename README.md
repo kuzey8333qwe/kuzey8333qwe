@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**kuzey8333qwe/kuzey8333qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Merhaba, ben Kuzey. Bu GitHub profilinde, merakım olan siber güvenlik ve düşük seviyeli programlama yolculuğumda karşıma çıkan sorunları nasıl çözdüğümü ve projelendirdiğimi göreceksiniz. Elimden geldiğince de açık kaynak projelere katkıda bulunmaya çalışıyorum.
+## İletişim
+epickuzey3@gmail.com 
+adresini kullanabilirsiniz.
+## Teknolojiler
+İlgilendiğim teknolojiler ve diller 
+- Python Veri Bilimi 
+- C
+- C++
+- MySQL
